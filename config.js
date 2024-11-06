@@ -1,5 +1,5 @@
 module.exports = {
-    token: process.env.TOKEN,
+    token: "" || process.env.TOKEN,
     prefix: "!",
     botStatus: "🎵 Müzik Çalıyor",
     embedColor: "#ff0000",
