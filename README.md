@@ -1,1 +1,1 @@
-# ⭐ 15 Starda Çalışan Gelişmiş Hali Paylaşılacak
+# ⭐ 15 Starda Gelişmiş Hali Paylaşılacak
